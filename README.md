@@ -13,3 +13,6 @@ Given: August 27, 2024
 ![image](https://github.com/user-attachments/assets/6bf6f6a7-ba07-49f8-a546-4713f0c12f75)
 
 ![image](https://github.com/user-attachments/assets/4710389c-93e0-41c5-8277-62694707e4df)
+
+### III. Versions and Changes Made:
+  Date: September 15, 2024 - Problems were separated onto different notebooks. Problem 1 (Normalization Problem) was fixed to generate random numbers for the array per entry
